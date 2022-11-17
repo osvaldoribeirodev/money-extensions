@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
 
     <PackageId>MoneyExtensionsOR</PackageId>
-    <Version>1.0.1</Version>
+    <Version>1.1.1</Version>
     <License>MIT</License>
     <Authors>André Baltieri</Authors>
     <Company>osvaldoribeiro.io</Company>
