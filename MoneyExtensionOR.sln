@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyExtension", "MoneyExtension\MoneyExtension.csproj", "{4683D279-A944-4FDA-B8C1-ECE1754EB39C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyExtensionOR", "MoneyExtensionOR\MoneyExtensionOR.csproj", "{4683D279-A944-4FDA-B8C1-ECE1754EB39C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyExtension.Tests", "MoneyExtension.Tests\MoneyExtension.Tests.csproj", "{FB477146-BF80-4600-AC1F-4AC27F4DBF61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyExtensionOR.Tests", "MoneyExtensionOR.Tests\MoneyExtensionOR.Tests.csproj", "{FB477146-BF80-4600-AC1F-4AC27F4DBF61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

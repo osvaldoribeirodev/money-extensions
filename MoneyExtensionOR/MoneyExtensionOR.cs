@@ -1,4 +1,4 @@
-﻿namespace MoneyExtension;
+﻿namespace MoneyExtensionOR;
 public static class Money
 {
     public static int ToCents(this decimal amount)

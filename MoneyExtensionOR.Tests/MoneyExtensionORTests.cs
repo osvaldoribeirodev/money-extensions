@@ -1,7 +1,7 @@
-namespace MoneyExtension.Tests;
+namespace MoneyExtensionOR.Tests;
 
 [TestClass]
-public class MoneyExtensionTests
+public class MoneyExtensionORTests
 {
     [TestMethod]
     public void ShouldConvertDecimalToInt()
